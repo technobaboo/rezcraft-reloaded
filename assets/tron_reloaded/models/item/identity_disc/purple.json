@@ -1,0 +1,7 @@
+{
+	"parent": "tron_reloaded:item/identity_disc",
+	"textures": {
+		"0": "tron_reloaded:item/disc/purple",
+		"particle": "tron_reloaded:item/disc/purple"
+	}
+}
