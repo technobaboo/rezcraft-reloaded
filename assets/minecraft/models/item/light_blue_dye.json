@@ -1,0 +1,13 @@
+{
+"parent": "item/generated",
+"textures": {
+"layer0": "item/light_blue_dye"
+},
+
+"overrides": [
+{"predicate": {"custom_model_data":1}, "model": "item/lightribbon/blue"},
+{"predicate": {"custom_model_data":2}, "model": "item/lightribbon/horizontal/blue"},
+{"predicate": {"custom_model_data":3}, "model": "item/bullet/blue"},
+{"predicate": {"custom_model_data":4}, "model": "item/particles/blue"}
+]
+}

@@ -1,0 +1,1 @@
+{"parent":"item/handheld","textures":{"layer0":"item/diamond_pickaxe"},"overrides":[{"predicate":{"custom_model_data":1},"model":"tron_reloaded:item/drill"},{"predicate":{"custom_model_data":2},"model":"minecraft:item/diamond_pickaxe"}]}

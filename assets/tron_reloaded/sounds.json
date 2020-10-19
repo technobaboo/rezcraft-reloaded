@@ -1,0 +1,44 @@
+{
+	"ambient.oceans_sirens": {
+		"subtitle": "Oceans Sirens",
+		"sounds": [
+			"tron_reloaded:ambient/oceans_sirens"
+		]
+	},
+	"ambient.oceans_sirens_reprise": {
+		"subtitle": "Oceans Sirens (Reprise)",
+		"sounds": [
+			"tron_reloaded:ambient/oceans_sirens_reprise"
+		]
+	},
+	"ambient.urban_data": {
+		"subtitle": "Urban Data",
+		"sounds": [
+			"tron_reloaded:ambient/urban_data"
+		]
+	},
+	"music.descendant": {
+		"subtitle": "Descendant",
+		"sounds": [
+			"tron_reloaded:music/descendant"
+		]
+	},
+	"music.line_of_end": {
+		"subtitle": "Line of End",
+		"sounds": [
+			"tron_reloaded:music/line_of_end"
+		]
+	},
+	"music.pigstep": {
+		"subtitle": "Pigstep (TRON edition)",
+		"sounds": [
+			"tron_reloaded:music/pigstep"
+		]
+	},
+	"music.rinz_wave": {
+		"subtitle": "尺工几乙しヨ尺",
+		"sounds": [
+			"tron_reloaded:music/rinz_wave"
+		]
+	}
+}
