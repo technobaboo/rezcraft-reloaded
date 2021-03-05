@@ -1,0 +1,11 @@
+{
+  "textures": [
+    "minecraft:LED0",
+    "minecraft:LED1",
+    "minecraft:LED2",
+    "minecraft:LED3",
+    "minecraft:LED4",
+    "minecraft:LED5",
+    "minecraft:LED6"
+  ]
+}
