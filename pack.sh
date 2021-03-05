@@ -1,3 +1,3 @@
 #!/bin/sh
 
-zip pack -u -r assets/ pack.png pack.mcmeta
+zip pack -ur assets/ pack.png pack.mcmeta
