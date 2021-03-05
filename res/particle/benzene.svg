@@ -7,14 +7,14 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="32"
-   height="32"
-   viewBox="0 0 8.4666659 8.4666659"
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
    version="1.1"
    id="svg8"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="benzene.svg"
-   inkscape:export-filename="/media/nova/MEDIA/Games/Minecraft/TronServer/rezcraft-reloaded/res/particle/benzene.png"
+   inkscape:export-filename="/media/nova/MEDIA/Games/Minecraft/TronServer/rezcraft-reloaded/assets/minecraft/textures/particle/hex.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
@@ -26,19 +26,28 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.627417"
-     inkscape:cx="12.966288"
-     inkscape:cy="16.376933"
+     inkscape:zoom="11.313709"
+     inkscape:cx="21.415314"
+     inkscape:cy="31.192827"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
-     showgrid="false"
+     showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1044"
      inkscape:window-x="0"
      inkscape:window-y="36"
      inkscape:window-maximized="1"
-     units="px" />
+     units="px"
+     inkscape:snap-others="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1018"
+       originx="0"
+       originy="0"
+       dotted="true"
+       empspacing="4" />
+  </sodipodi:namedview>
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -57,36 +66,23 @@
      id="layer1">
     <path
        sodipodi:type="star"
-       style="opacity:1;fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.26458333;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:2.057;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linecap:round"
        id="path12"
        sodipodi:sides="6"
-       sodipodi:cx="4.2333331"
-       sodipodi:cy="4.2333331"
-       sodipodi:r1="3.5646548"
-       sodipodi:r2="12.247072"
+       sodipodi:cx="32"
+       sodipodi:cy="32"
+       sodipodi:r1="27.712812"
+       sodipodi:r2="95.212807"
        sodipodi:arg1="0"
        sodipodi:arg2="0.52359878"
        inkscape:flatsided="true"
        inkscape:rounded="0"
        inkscape:randomized="0"
-       d="m 7.7979879,4.2333331 -1.7823274,3.0870816 -3.5646548,0 -1.78232742,-3.0870816 1.78232742,-3.0870816 3.5646548,0 z" />
+       d="M 59.712812,32 45.856406,56 H 18.143594 L 4.2871876,32 18.143594,8.0000004 l 27.712812,0 z" />
     <path
-       sodipodi:type="star"
-       style="opacity:1;fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.26458333;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path12-6"
-       sodipodi:sides="6"
-       sodipodi:cx="4.2333331"
-       sodipodi:cy="4.2333331"
-       sodipodi:r1="1.5969726"
-       sodipodi:r2="12.247072"
-       sodipodi:arg1="0"
-       sodipodi:arg2="0.52359878"
-       inkscape:flatsided="true"
-       inkscape:rounded="0"
-       inkscape:randomized="0"
-       d="M 5.8303057,4.2333331 5.0318194,5.6163519 H 3.4348468 L 2.6363605,4.2333331 3.4348468,2.8503143 l 1.5969726,0 z"
-       inkscape:export-filename="/media/nova/MEDIA/Games/Minecraft/TronServer/rezcraft-reloaded/assets/minecraft/textures/particle/benzene.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       id="path12-9"
+       style="opacity:1;fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:2.05696;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 22.215389,14.803847 H 42.071796 M 52,32 42.071796,49.196153 m -19.856407,0 L 12.287186,32"
+       sodipodi:nodetypes="cccccc" />
   </g>
 </svg>
