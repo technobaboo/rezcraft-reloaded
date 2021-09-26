@@ -1,0 +1,47 @@
+{
+	"credit": "Made by Astraica",
+	"texture_size": [1024, 1024],
+	"textures": {
+		"0": "screens/curtain",
+		"particle": "screens/curtain"
+	},
+	"elements": [
+		{
+			"from": [-12, -12, -12],
+			"to": [28, 8.25, -12],
+			"faces": {
+				"north": {"uv": [1.5, 0, 15, 6], "texture": "#0"},
+				"east": {"uv": [0, 15.26563, 0, 15.26563], "texture": "#0"},
+				"south": {"uv": [1.5, 0, 15, 6], "texture": "#0"},
+				"west": {"uv": [0, 15.26563, 0, 15.26563], "texture": "#0"},
+				"up": {"uv": [0, 15.26563, 0, 15.26563], "texture": "#0"},
+				"down": {"uv": [0, 15.26563, 0, 15.26563], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [90, 0, 0],
+			"translation": [1, -7.75, 7.25],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"ground": {
+			"translation": [0, 6.75, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [-36, -180, 0],
+			"translation": [0.75, 0, 0],
+			"scale": [0.35, 0.35, 0.35]
+		},
+		"head": {
+			"translation": [-14.75, 37, 68],
+			"scale": [4, 4, 4]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 80, -79],
+			"scale": [4, 4, 4]
+		}
+	}
+}
